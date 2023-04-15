@@ -17,5 +17,3 @@ learning mobile programming<br><br>know java<br>know c<br>know a little python,h
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
-
