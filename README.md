@@ -24,41 +24,82 @@ I find joy in the process of transforming ideas into functional, elegant solutio
 
 ---
 
-## Resume
+# Resume
 
-**RICHARD PANCHAM**  
-Hardware Associate  
-647-447-5231 | richardpancham777@gmail.com | [LinkedIn](https://linkedin.com/in/richard-pancham-95a329260)  
-9 Gwillam Ct, Toronto, ON M9V 2J8
+## RICHARD PANCHAM
 
 
+- Email: richardpancham777@gmail.com
+- LinkedIn: [Richard Pancham](https://www.linkedin.com/in/richard-pancham-95a329260/)
+- GitHub: [RichardPancham](https://github.com/RichardPancham/About_Me)
 
-### EDUCATION
 
-**Advanced Diploma in Computer Engineering Technology**  
-*Humber College | 12/2020 - 12/2023*
+## SUMMARY
+As a Computer Engineering Technology student, I bring practical expertise in Java, mobile development, PCB design, C programming, and web development. My background spans diverse roles in customer service, retail, warehouse operations, and participation in youth employment programs. I excel in communication, organization, time management, and problem-solving. Motivated by a strong work ethic and adaptability, I am enthusiastic about transitioning into an IT, coding, or engineering-related field. I am eager to contribute to innovative projects and embrace new challenges, driven by a passion for advancing technology and engineering solutions.
 
-**High School Diploma (OSSD)**  
-*North Albion Collegiate Institute | 09/2015 - 06/2019*
+## EDUCATION
 
-### SUMMARY
+- **Humber College**
+  - *Advanced Diploma in Computer Engineering Technology*
+  - *12/2020 - 12/2023*
+  - Relevant Coursework:
+    - Embedded Systems Design
+    - Software Applications
+    - Electrical Engineering Fundamentals
+    - Systems Integration
+    - Java Programming
+    - Mobile Development
+    - PCB Design
+    - C Programming
+    - SQL Fundamentals
+    - Web Development Basics
 
-🚀 With a background in IT and coding, I bring reliability, strong numeracy skills, a hardworking nature, and excellent communication to the table. Known for my organization and quick learning, I'm eager to contribute to dynamic and innovative projects within the IT and coding community.
+- **North Albion Collegiate Institute**
+  - *High School Diploma (OSSD)*
+  - *09/2015 - 06/2019*
 
-### SKILLS
+## PROFESSIONAL EXPERIENCE
 
-- **Programming Languages:** Java, C, Linux, Windows
-- **Software Tools:** Microsoft Word, PowerPoint, Visual Studio Code, Git, GitHub
-- **Hardware:** Robotics, PCB Design, Arduino, Raspberry Pi
-- **Design Tools:** CorelDraw, KiCad, Fritzing, AutoCAD, Android Studio, Firebase
+**United Parcel Services (UPS), Concord**
+*Warehouse Associate*  
+*05/2022 - Present*
 
-### STRENGTHS
+- Proficiently handle package sorting and unloading, ensuring the safe and secure transfer of items within specified timelines.
+- Capable of lifting up to 70 pounds, implementing safety protocols and proper lifting methods to maintain a secure working environment.
+- Contribute to the overall efficiency of warehouse operations through reliable and diligent execution of package handling tasks.
 
-- **Time Management:** Acquired through managing various tasks and deadlines.
-- **Organization:** Developed through maintaining clean aisles and organizing merchandise.
-- **Problem Solving:** Gained through addressing coding challenges and resolving IT issues.
-- **Creativity:** Demonstrated in PCB design and creative problem-solving.
-- **Teamwork:** Cultivated through collaborative efforts in diverse coding and development environments.
+**Canadian Tire, Toronto**
+*Hardware Associate*  
+*11/2018 - 10/2023*
 
-# Additional Information
-*No additional information provided.*
+- Provided expert product knowledge to customers, driving sales and customer satisfaction.
+- Executed merchandising strategies, ensuring optimal product display and availability.
+
+**Shoppers Drug Mart, Toronto**
+*Customer Service Associate/Merchandiser*  
+*10/2017 - 02/2018*
+
+- Delivered exceptional customer service by addressing inquiries and recommending products.
+- Managed store inventory and maintained compliance with merchandising standards.
+
+**YMCA GTA Youth Employment Program, Toronto**
+*Program Member*  
+*03/2017 - 04/2017*
+
+- Completed youth employment program facilitated by the Ministry of Employment Ontario.
+- Developed employability skills including conflict management, communication, and teamwork.
+
+## TECHNICAL SKILLS
+
+- **Programming Languages:** Java, C
+- **Development & Design Tools:** Mobile Development, PCB Design, Web Development Basics (HTML, CSS), Visual Studio Code, AutoCAD, Android Studio, Firebase, Git, GitHub
+- **Operating Systems:** Linux, Windows
+- **Soft Skills:** Time Management, Organization, Problem Solving, Team Collaboration, Communication
+
+## STRENGTHS
+
+- **Time Management:** Developed through consistent task prioritization, resulting in efficient project completion.
+- **Organization:** Acquired through managing complex retail inventories and academic tasks, ensuring accuracy and efficiency.
+- **Problem Solving:** Demonstrated in resolving customer queries and troubleshooting technical challenges, leading to enhanced customer satisfaction.
+- **Creativity:** Fostered through exploring innovative solutions in academic projects and retail merchandising.
+- **Teamwork:** Cultivated through collaborative efforts with cross-functional teams in various professional settings.
